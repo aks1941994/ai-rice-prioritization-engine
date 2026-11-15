@@ -1,0 +1,16 @@
+id,title,description,customer_signal,depends_on
+F-01,Automated invoice reminders,Send scheduled email/SMS reminders for unpaid invoices at 3/7/14 days overdue.,Top-3 request in last survey; 38 support tickets asking how to chase late payments,
+F-02,AI job-notes summary,Summarize a technician's voice or text notes into a clean job record and next steps.,Requested in 9 customer interviews; competitors starting to ship similar features,
+F-03,Online booking page,Public booking page where homeowners can request a job slot that syncs to the calendar.,Requested by 21 accounts; common churn reason in exit surveys,
+F-04,QuickBooks Online sync,Two-way sync of customers and invoices with QuickBooks Online.,Most-requested integration; 54 tickets about double data entry,
+F-05,Offline mode for mobile app,Let technicians create and edit jobs without connectivity and sync later.,Complaints from rural users; 12 app-store reviews mention it,
+F-06,Card-on-file payments,Securely store a customer's card to charge deposits and final balances faster.,Requested by payments team to grow payment volume; 15 tickets,
+F-07,One-click quote-to-invoice,Convert an accepted quote into an invoice without re-entering line items.,Most-watched item on the public roadmap; 61 upvotes,
+F-08,Dark mode,Dark theme for the web and mobile apps.,Frequent but low-urgency request in app-store reviews,
+F-09,Drag-and-drop team scheduling,Dispatcher calendar to assign and move jobs across multiple technicians.,Requested by multi-crew accounts (about 10% of base),
+F-10,"""On my way"" SMS notifications",Technician taps once to text the customer an ETA.,Requested in 14 interviews; reduces no-access visits,
+F-11,AI quote drafting,Draft a quote from a job description or photo using the customer's own price list.,Strong interest in 2 concept tests; accuracy concerns raised by testers,
+F-12,Custom reporting dashboard,"Configurable reports on revenue, jobs, and technician productivity.",Requested by larger accounts; unclear which reports matter most,
+F-13,Multi-currency invoicing,Invoice in currencies other than the account's home currency.,Requested by a small number of cross-border contractors,
+F-14,Customer self-service portal,Homeowners view quotes and invoices and pay online in one place.,Mixed feedback in interviews; depends on stored payment methods,F-06
+F-15,Automated review requests,Text customers a review link after a job is marked complete.,Requested by 18 accounts for local SEO; builds on SMS sending,F-10

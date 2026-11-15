@@ -1,0 +1,20 @@
+{
+  "note": "Illustrative LLM estimates for the fictional backlog, used by --estimates for an offline demo. Edit any value to override the model.",
+  "estimates": [
+    {"id": "F-01", "reach": 6000, "impact": 2, "confidence": 0.8, "effort": 1, "rationale": "Half of active accounts send invoices that go overdue; directly supports 'get paid faster'. Low effort using existing email/SMS sending."},
+    {"id": "F-02", "reach": 3000, "impact": 1, "confidence": 0.5, "effort": 2, "rationale": "Interview interest is real but untested; value depends on summary accuracy for trade jargon."},
+    {"id": "F-03", "reach": 2500, "impact": 2, "confidence": 0.8, "effort": 3, "rationale": "Cited in churn exit surveys, so it supports retention; needs calendar availability logic."},
+    {"id": "F-04", "reach": 4000, "impact": 2, "confidence": 0.8, "effort": 4, "rationale": "Large ticket volume about double entry; two-way sync and edge cases make it costly."},
+    {"id": "F-05", "reach": 3500, "impact": 1, "confidence": 0.8, "effort": 5, "rationale": "Painful for rural users but a major architectural change to the mobile app."},
+    {"id": "F-06", "reach": 3000, "impact": 2, "confidence": 0.8, "effort": 2, "rationale": "Directly grows payment volume; payment provider already supports stored cards."},
+    {"id": "F-07", "reach": 7000, "impact": 1, "confidence": 1.0, "effort": 0.5, "rationale": "Most-watched roadmap item; removes re-entry for every accepted quote. Data already exists on the quote."},
+    {"id": "F-08", "reach": 5000, "impact": 0.25, "confidence": 0.8, "effort": 1, "rationale": "Broadly requested but cosmetic; no link to this year's strategy."},
+    {"id": "F-09", "reach": 1200, "impact": 2, "confidence": 0.8, "effort": 4, "rationale": "High value for multi-crew accounts, but they are only about 10% of the base."},
+    {"id": "F-10", "reach": 5000, "impact": 1, "confidence": 0.8, "effort": 1, "rationale": "Reduces no-access visits and admin calls; simple one-tap flow."},
+    {"id": "F-11", "reach": 4000, "impact": 2, "confidence": 0.5, "effort": 3, "rationale": "Could cut quoting time sharply, but testers raised accuracy concerns; needs a review step before sending."},
+    {"id": "F-12", "reach": 1500, "impact": 1, "confidence": 0.5, "effort": 4, "rationale": "Requested by larger accounts, but which reports matter is unclear; needs discovery."},
+    {"id": "F-13", "reach": 400, "impact": 1, "confidence": 1.0, "effort": 2, "rationale": "Clear need for a small segment; tax and rounding rules add effort."},
+    {"id": "F-14", "reach": 2000, "impact": 1, "confidence": 0.5, "effort": 3, "rationale": "Mixed interview feedback; depends on card-on-file payments."},
+    {"id": "F-15", "reach": 3000, "impact": 1, "confidence": 0.8, "effort": 1, "rationale": "Supports customer acquisition via reviews; reuses SMS sending from F-10."}
+  ]
+}
